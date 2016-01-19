@@ -1,0 +1,8 @@
+		//
+		//if (empty($_SESSION['login']) or empty($_SESSION['id']) or ($_SESSION['isp']=='1'))
+		//{
+		//	echo "Нет прав для просмотра этой страницы <br>" ;
+		//	echo "<a href='index.php'>Главная страница</a>";
+		//} 
+		//else
+		//{

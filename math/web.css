@@ -1,0 +1,50 @@
+div {
+    margin-bottom: 12px;
+    padding: 10px 25px 10px 25px;
+    background-color: #014659;
+	border: 1px solid black;
+}
+.header {
+	text-align: center;
+	min-height: 18%;
+	font-size: 32;
+	font-family: Arial;
+}
+
+.left-column {
+    width: 65%;
+    min-height: 50%;
+    background-color: #21809B;
+    float: left;
+}
+.nameofuser{
+	border: 0px;
+	background-color:  #3A869B;
+	padding: 5px;
+}
+.password{
+	border: 0px;
+	background-color:  #3A869B;
+	padding: 5px;
+}
+
+.right-column {
+    width: 25%;
+    min-height: 50%;
+    background-color: #3A869B;
+    float: right;
+}
+
+.central-column{
+    min-height: 50%;
+    background-color: #21809B;
+    float: center;
+}
+
+.footer {
+    clear: both;
+	background-color: #379999;
+	height: 18%;
+}
+
+
